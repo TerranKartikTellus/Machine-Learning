@@ -1,4 +1,4 @@
-# Foundations of data science for machine learning
+# Machine Learning
  classical machine learning models, to exploratory data analysis and customizing architectures
 
 
