@@ -13,8 +13,6 @@ If you're not sure which size harness to choose for your dog, don't worry! Our A
 
 ![Select Harness with Correct Boot size and harness size in cm]( https://github.com/TerranKartikTellus/Machine-Learning/blob/main/Intro%20to%20ML/avalanche/public/img/perfect3.PNG "Correct Boot size and harness size pair")
 
-![Select Harness with Correct Boot size and harness size in cm]( https://github.com/TerranKartikTellus/Machine-Learning/blob/main/Intro%20to%20ML/avalanche/public/img/perfect1.PNG "Correct Boot size and harness size pair")
-
 ![Select Harness with Correct Boot size and harness size in cm]( https://github.com/TerranKartikTellus/Machine-Learning/blob/main/Intro%20to%20ML/avalanche/public/img/suggest.PNG "Correct Boot size and harness size pair")
 
 ![Select Harness with Correct Boot size and harness size in cm]( https://github.com/TerranKartikTellus/Machine-Learning/blob/main/Intro%20to%20ML/avalanche/public/img/backend.PNG "Correct Boot size and harness size pair")
