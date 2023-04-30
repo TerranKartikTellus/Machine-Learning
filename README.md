@@ -6,3 +6,5 @@
 
 
 [Original Source](https://learn.microsoft.com/en-us/training/modules/introduction-to-machine-learning)
+
+![alt](https://github.com/TerranKartikTellus/Machine-Learning/blob/main/Intro%20to%20ML/avalanche/public/img/perfect3.PNG)
